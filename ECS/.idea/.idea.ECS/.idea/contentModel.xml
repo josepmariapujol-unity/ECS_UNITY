@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Enemy" t="Include">
+            <e p="EnemyInputMovementSystem.cs" t="Include" />
+            <e p="EnemyMovementData.cs" t="Include" />
+            <e p="EnemyMovementSystem.cs" t="Include" />
+            <e p="EnemyTagData.cs" t="Include" />
+          </e>
+          <e p="PlayerInputData.cs" t="Include" />
+          <e p="PlayerInputMovementSystem.cs" t="Include" />
+          <e p="PlayerMovementData.cs" t="Include" />
+          <e p="PlayerMovementSystem.cs" t="Include" />
+          <e p="PlayerPos" t="Include">
+            <e p="PlayerPositionData.cs" t="Include" />
+            <e p="PlayerPositionSystem.cs" t="Include" />
+          </e>
+          <e p="PlayerTagData.cs" t="Include" />
+        </e>
+      </e>
+      <e p="ECS.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp/bin" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_ECS.1750208970.00" t="ExcludeRecursive" />
+  </component>
+</project>
